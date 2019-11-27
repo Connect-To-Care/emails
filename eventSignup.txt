@@ -1,0 +1,4 @@
+Hello,
+This email is confirming your signup for the event {{ event }}.
+Event details: {{ event-details }}
+Please note: Failing to appear to an event will result in a strike on your account. If you miss more then 3 events per year, your account will be terminated.
