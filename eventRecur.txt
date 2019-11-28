@@ -1,0 +1,6 @@
+Hello,
+This email is confirming your availability for the recurring event {{ event }}.
+Event details: {{ event-details }}
+Start time: {{ event-startTime }}
+End time: {{ event-endTime }}
+If your schedule has changed, please drop this event.
