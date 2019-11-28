@@ -1,0 +1,3 @@
+Hello,
+This email is confirming that you are dropping the event {{ event }}.
+If you wish to undo this, please sign up for the event again in the dashboard.
