@@ -1,0 +1,3 @@
+Hello,
+Your attendance {{ event }} has been updated.
+You have been marked {{ status }}.
